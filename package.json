@@ -1,0 +1,19 @@
+{
+  "name": "adam",
+  "version": "0.0.1",
+  "description": "Adam is",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js | grep -q 'I am Adam.'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrikei/adam.git"
+  },
+  "author": "Adriano Pais Rodrigues",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/adrikei/adam/issues"
+  },
+  "homepage": "https://github.com/adrikei/adam#readme"
+}
